@@ -1,0 +1,11 @@
+# Import numpy as np
+import numpy as np 
+
+# Store pop as a numpy array: 
+np_pop = np.array(pop)
+
+
+
+# Double np_pop
+np_pop = np_pop * 2
+
